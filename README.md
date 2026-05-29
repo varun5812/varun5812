@@ -34,27 +34,27 @@ class DataScientist:
             "LLMs & Generative AI"
         ]
 
-        self.fun_fact = "I taught a machine to predict heart disease!"
+        self.fun_fact = "I taught a machine to predict ❤️ disease!"
 
     def motto(self):
-        return "Build. Learn. Deploy. Repeat."
+        return "Build. Learn. Deploy. Repeat. 🚀"
 
 me = DataScientist()
 print(me.motto())
-` ` `
+```
 
 <br clear="right"/>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**ML and Data Science**
+**ML & Data Science**
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -62,7 +62,7 @@ print(me.motto())
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=flat-square&logo=python&logoColor=white)
 
-**Deployment and Tools**
+**Deployment & Tools**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
@@ -75,7 +75,7 @@ print(me.motto())
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -90,7 +90,7 @@ print(me.motto())
 
 ---
 
-## Streak Stats
+## 🔥 Streak Stats
 
 <div align="center">
 
@@ -100,7 +100,7 @@ print(me.motto())
 
 ---
 
-## Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -110,7 +110,7 @@ print(me.motto())
 
 ---
 
-## Trophy Wall
+## 🏆 Trophy Wall
 
 <div align="center">
 
@@ -120,79 +120,79 @@ print(me.motto())
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 <details>
-<summary><b>AIML LABS PVT LTD — Data Scientist Intern | April 2025 – Present | Bengaluru, India</b></summary>
+<summary><b>🏢 AIML LABS PVT LTD — Data Scientist Intern &nbsp;|&nbsp; April 2025 – Present &nbsp;|&nbsp; Bengaluru, India</b></summary>
 
-> Python | Scikit-learn | Pandas | Streamlit | Render | EDA | Feature Engineering
+> `Python` `Scikit-learn` `Pandas` `Streamlit` `Render` `EDA` `Feature Engineering`
 
-- Completed end-to-end real-world ML model development including data preprocessing, EDA, and model evaluation workflows.
-- Built and evaluated classification and regression models, selecting best performers based on Accuracy, Precision, Recall, and F1 Score.
-- Developed and deployed AI/ML applications using Streamlit and Render, making models accessible via live web interfaces.
-- Applied feature engineering and model evaluation techniques to improve model generalization and business relevance.
+- Completed end-to-end **real-world ML model development** including data preprocessing, EDA, and model evaluation workflows.
+- Built and evaluated **classification and regression models**, selecting best performers based on Accuracy, Precision, Recall, and F1 Score.
+- **Developed and deployed AI/ML applications** using Streamlit and Render, making models accessible via live web interfaces.
+- Applied **feature engineering and model evaluation** techniques to improve model generalization and business relevance.
 
 </details>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| Heart Disease Prediction | Python, Scikit-learn, Streamlit, Render | Compared Logistic Regression, KNN, SVM, Decision Tree. KNN selected as best model. Deployed as a live real-time Streamlit app. |
-| ResearchMind: AI Research System | Python, Streamlit, Tavily API, BeautifulSoup | Automated research pipeline with web search, scraping and summarization. Outputs downloadable Markdown reports. |
-| Customer Churn Prediction | Python, Random Forest, Azure ML | Predicted high-risk churn customers from retail loyalty data. Reduced churn by 15%. Deployed on Azure ML for real-time scalability. |
+| [❤️ Heart Disease Prediction](https://github.com/varunkumar5812) | Python · Scikit-learn · Streamlit · Render | Built & compared Logistic Regression, KNN, SVM, Decision Tree — KNN selected as best model. Deployed as a live real-time Streamlit app. |
+| [🔬 ResearchMind: AI Research System](https://github.com/varunkumar5812) | Python · Streamlit · Tavily API · BeautifulSoup | Automated research pipeline with web search, scraping & summarization. Outputs downloadable Markdown reports. |
+| [📉 Customer Churn Prediction](https://github.com/varunkumar5812) | Python · Random Forest · Azure ML | Predicted high-risk churn customers from retail loyalty data — **reduced churn by 15%**. Deployed on Azure ML with real-time scalability. |
 
 </div>
 
 ---
 
-## Achievements
+## 🏅 Achievements
 
 <div align="center">
 
-| | Achievement | Details |
-|-|-------------|---------|
-| | B.E. in AI and Machine Learning | SEA College of Engineering, Bengaluru. CGPA 7.01. 2021 to 2025. |
-| | Data Scientist Intern | AIML Labs Pvt Ltd. End-to-end ML project development and deployment. |
-| | Live ML Deployments | 2 plus projects deployed on Streamlit and Render with real-time inference. |
-| | Azure ML Deployment | Customer Churn model deployed on Azure ML for scalable predictions. |
-| | 15 Percent Churn Reduction | Retention strategy powered by ML model in retail loyalty program. |
+| 🏆 | Achievement | Details |
+|----|-------------|---------|
+| 🎓 | B.E. in AI & Machine Learning | SEA College of Engineering, Bengaluru · CGPA: **7.01** · 2021–2025 |
+| 🤖 | Data Scientist Intern | AIML Labs Pvt Ltd · End-to-end ML project development & deployment |
+| 🚀 | Live ML Deployments | 2+ projects deployed on Streamlit + Render with real-time inference |
+| ☁️ | Azure ML Deployment | Customer Churn model deployed on Azure ML for scalable predictions |
+| 📉 | 15% Churn Reduction | Retention strategy powered by ML model in retail loyalty program |
 
 </div>
 
 ---
 
-## Education
+## 🎓 Education
 
 <div align="center">
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| B.E. in Artificial Intelligence and Machine Learning | SEA College of Engineering, Bengaluru | 2021 to 2025 | CGPA 7.01 |
-| PUC Class XII | Shree Vijetha PU College, Chintamani | 2021 | 71.5 percent |
-| SSLC Class X | Nalanda Vidhya Mandira, Chintamani | 2019 | 68.18 percent |
+| B.E. — Artificial Intelligence & Machine Learning | SEA College of Engineering, Bengaluru | 2021–2025 | CGPA: 7.01 |
+| PUC (Class XII) | Shree Vijetha PU College, Chintamani | 2021 | 71.5% |
+| SSLC (Class X) | Nalanda Vidhya Mandira, Chintamani | 2019 | 68.18% |
 
 </div>
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 ```
-Deep Learning         → Neural Networks, CNNs, RNNs, Transformers
-MLOps                 → Model Versioning, CI/CD Pipelines, Docker
-Generative AI         → LLMs, Prompt Engineering, RAG Systems
-Advanced Analytics    → A/B Testing, Statistical Inference
-Cloud ML              → Azure ML Studio, Model Registry, Endpoints
-` ` `
+🧠 Deep Learning         → Neural Networks, CNNs, RNNs, Transformers
+⚙️  MLOps                → Model Versioning, CI/CD Pipelines, Docker
+🤖 Generative AI         → LLMs, Prompt Engineering, RAG Systems
+📊 Advanced Analytics    → A/B Testing, Statistical Inference
+☁️  Cloud ML             → Azure ML Studio, Model Registry, Endpoints
+```
 
 ---
 
-## Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
